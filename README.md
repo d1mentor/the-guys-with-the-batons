@@ -1,5 +1,5 @@
 # The-guys-with-the-batons
-A console game in which you have to guess the hidden word.
+A ruby written console game in which you have to guess the hidden word.
 
 For launch:
 1. open console
