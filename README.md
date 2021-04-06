@@ -1,4 +1,4 @@
-# The-guys-with-the-batons
+# the-guys-with-the-batons
 A ruby written console game in which you have to guess the hidden word.
 
 For launch:
