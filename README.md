@@ -4,11 +4,9 @@ A ruby written console game in which you have to guess the hidden word.
 For launch:
 1. open console
 2. Go to the directory with the file ```main.rb```
-
 ```
 3. $ ruby main.rb
 ```
-
 Game manual:
 1. The game makes a word
 2. The player needs to guess it by entering one letter at a time.
