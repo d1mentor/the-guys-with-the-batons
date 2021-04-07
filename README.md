@@ -5,9 +5,9 @@ For launch:
 1. open console
 2. Go to the directory with the file main.rb
 
-   ```
+```
 3. $ ruby main.rb
-   ```
+```
 
 Game manual:
 1. The game makes a word
